@@ -2,28 +2,28 @@
 
 # 💻 Jo Krumsvik - Analyst | AI Enthusiast
 
-Welcome to my GitHub profile! I'm Jo Krumsvik, a passionate analyst and machine learning enthusiast with a focus on creating impactful solutions through data-driven insights. Specialized in how big data solutions can revolutionize the seafood industry. 
+Welcome to my GitHub profile! I'm Jo Krumsvik, a passionate analyst and machine learning enthusiast with a focus on creating impactful solutions through data-driven insights. Specialized in how Big Data solutions can revolutionize the seafood industry. 
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Demand forecasting models for the sugar industry.
-- 🌱 Learning: Advanced AI techniques and their applications in real-world scenarios.
-- 👯 Looking to collaborate on: Machine learning projects, data analysis, and AI research.
-- 💬 Ask me about: Python, Machine Learning, Data Science, and AI.
-- 📫 How to reach me: [Your Email] | [Your LinkedIn Profile] | [Your Twitter Handle]
-- ⚡ Fun fact: I love exploring new algorithms and making sense of complex datasets!
+- 🔭 Currently working on: Demand forecasting models for the sugar industry and machine learning models for seafood industry. 
+- 🌱 Learning: Advanced AI techniques for predicting future outcomes and their applications in real-world scenarios.
+- 👯 Looking to collaborate on: Demand forecasting, biotechical datasets of fish, and machine learning models. 
+- 💬 Ask me about: Python, SQL, Data Visualization, Tableau, or whatever pleases you. 
+- 📫 How to reach me: [krumsvik.jo@gmail.com] | [https://www.linkedin.com/in/jokrumsvik/] |
+- ⚡ Fun fact: I love exploring new ways to serve clients by discovering new techniques and models. 
 
 ## 🛠️ Skills & Tools
 
 - Programming Languages: Python, R, SQL
-- Libraries & Frameworks: scikit-learn, TensorFlow, Keras, Prophet, XGBoost, pandas, NumPy, Matplotlib
-- Tools: Jupyter Notebook, Git, Docker, VS Code, PyCharm
+- Libraries & Frameworks: scikit-learn, Prophet, XGBoost, pandas, NumPy, Matplotlib
+- Tools: Jupyter Notebook, Git, Docker, VS Code, PyCharm, Google Colab
 - Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization
 - Machine Learning: Supervised Learning, Unsupervised Learning, Time Series Analysis, Model Deployment
 
 ## 📈 Featured Projects
 
-1. **[Demand Forecasting for Sugar Industry](link_to_repo)**
+1. Demand Forecasting for Sugar Industry
    - Developed a hybrid model combining Prophet and XGBoost for accurate demand forecasting.
    - Improved forecast accuracy by integrating machine learning techniques with traditional time series models.
 
@@ -39,34 +39,13 @@ Welcome to my GitHub profile! I'm Jo Krumsvik, a passionate analyst and machine 
    - Applied clustering algorithms to segment customers based on purchasing behavior.
    - Enabled targeted marketing strategies and improved customer satisfaction.
 
-## 📊 Latest Blog Posts
-
-- [Your Blog Post Title](link_to_blog_post)
-- [Another Blog Post Title](link_to_blog_post)
-
-## 🏆 Certifications
-
-- [Certification Name](link_to_certificate)
-- [Another Certification](link_to_certificate)
-
-## 📜 Licenses & Endorsements
-
-- Certified Data Scientist
-- Endorsed for Machine Learning and Data Analysis
-
 ## 🌐 Socials
 
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
-- Twitter: [Your Twitter Handle](link_to_twitter)
-- Medium: [Your Medium Profile](link_to_medium)
+- LinkedIn: (https://www.linkedin.com/in/jokrumsvik/)
 
 ## 🤝 Let's Connect!
 
 I'm always open to discussing new ideas, potential collaborations, or simply sharing knowledge. Feel free to reach out!
-
----
-
-⭐️ From [Your Name](link_to_your_profile)
 
 <!--
 **jokrumsvik/jokrumsvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
