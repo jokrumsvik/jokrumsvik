@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Jo Krumsvik, a passionate analyst and machine 
 - 🌱 Learning: Advanced AI techniques for predicting future outcomes and their applications in real-world scenarios.
 - 👯 Looking to collaborate on: Demand forecasting, biotechical datasets of fish, and machine learning models. 
 - 💬 Ask me about: Python, SQL, Data Visualization, Tableau, or whatever pleases you. 
-- 📫 How to reach me: [krumsvik.jo@gmail.com] | [https://www.linkedin.com/in/jokrumsvik/] |
+- 📫 How to reach me: [https://www.linkedin.com/in/jokrumsvik/] |
 - ⚡ Fun fact: I love exploring new ways to serve clients by discovering new techniques and models. 
 
 ## 🛠️ Skills & Tools
