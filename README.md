@@ -2,14 +2,13 @@
 
 # 💻 Jo Krumsvik - Analyst | AI Enthusiast
 
-Welcome to my GitHub profile! I'm Jo Krumsvik, a passionate analyst and machine learning enthusiast with a focus on creating impactful solutions through data-driven insights. Specialized in how Big Data solutions can revolutionize the seafood industry. 
+Welcome to my GitHub profile! I'm Jo Krumsvik, a passionate analyst and machine learning enthusiast with a focus on creating impactful solutions through data-driven insights. Specialized in how Big Data solutions can revolutionize the seafood industry, energy, and fintech. 
 
 ## 🚀 About Me
-
-- 🔭 Currently working on: Demand forecasting models for the sugar industry and machine learning models for seafood industry. 
+ 
 - 🌱 Learning: Advanced AI techniques for predicting future outcomes and their applications in real-world scenarios.
-- 👯 Looking to collaborate on: Demand forecasting, biotechical datasets of fish, and machine learning models. 
-- 💬 Ask me about: Python, SQL, Data Visualization, Tableau, or whatever pleases you. 
+- 👯 Looking to collaborate on: Demand forecasting, fintech projects, and machine learning models. 
+- 💬 Ask me about: Python, SQL, Data Visualization, R, Tableau, or whatever pleases you. 
 - 📫 How to reach me: [https://www.linkedin.com/in/jokrumsvik/] |
 - ⚡ Fun fact: I love exploring new ways to serve clients by discovering new techniques and models. 
 
